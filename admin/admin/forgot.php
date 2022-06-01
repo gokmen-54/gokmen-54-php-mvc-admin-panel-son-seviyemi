@@ -1,0 +1,1 @@
+<?php include("Controllers/SessionController.php"); include("Controllers/LogoutController.php"); ?>
